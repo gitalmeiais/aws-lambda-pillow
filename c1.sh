@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+./build_lambda_zip.sh
